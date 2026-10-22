@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Hernán
 
-<!--
-**HernanRomero33/HernanRomero33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador junior en formación, enfocado en JavaScript y Node.js. Busco mi primera oportunidad remota para aprender construyendo producto real.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: TypeScript, Node.js, NestJS, MongoDB Atlas
+- Herramientas: Git, GitHub
+- Aprendiendo ahora: React
+
+## Proyectos
+
+- [nest-mongodb-api](https://github.com/HernanRomero33/nest-mongodb-api): API REST en NestJS con MongoDB Atlas, organizada en módulos.
+
+
+## Contacto
+
+- Email: hernanromero45678@gmail.com  
+- LinkedIn: https://github.com/HernanRomero33
